@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<metadata>
+    <layout title="COM_PROJECTS_PROJECT"/>
+    <fields name="request">
+        <fieldset
+                name="request"
+                addfieldpath="/administrator/components/com_projects/models/fields">
+
+        </fieldset>
+    </fields>
+</metadata>
